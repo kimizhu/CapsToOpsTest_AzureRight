@@ -1,3 +1,14 @@
+---
+description: na
+search: na
+title: Azure Rights Management
+ms.service: rights-management
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.date: 2015-11-01
+ms.author: e8f708ba3bce4153b61467184c747c7f
+---
+# Azure Rights Management
 This page introduces the technical documentation set for Microsoft [!INC[aad_rightsmanagement_1](../Token/aad_rightsmanagement_1_md.md)] (Azure RMS), to help you protect your organization’s sensitive information from unauthorized access, and control how this information is used.  [!INC[aad_rightsmanagement_1](../Token/aad_rightsmanagement_1_md.md)] is a cloud service, and is integrated into other Microsoft cloud services and applications, such as Office 365 and Azure Active Directory. However, it can also be used with your on-premises applications and services.
 
 [!INC[aad_rightsmanagement_2](../Token/aad_rightsmanagement_2_md.md)] uses encryption, identity, and authorization policies to help secure your files and email. In comparison to standard access controls, such as NTFS permissions, protection that is applied by using [!INC[aad_rightsmanagement_2](../Token/aad_rightsmanagement_2_md.md)] stays with the files and emails, independently of the location—inside or outside your organization, networks, file servers, and applications. This information protection solution keeps you in control of your data, even when it is shared with other people.

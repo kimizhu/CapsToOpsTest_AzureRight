@@ -1,3 +1,14 @@
+---
+description: na
+search: na
+title: Privacy Statement for Microsoft Rights Management in RMS-Enlightened Applications
+ms.service: rights-management
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.date: na
+ms.author: f459630d47d34d12a44295cd5237dc68
+---
+# Privacy Statement for Microsoft Rights Management in RMS-Enlightened Applications
 Applies To: Microsoft Rights Management functionality which is embedded in applications
 
 > [!NOTE]

@@ -1,3 +1,14 @@
+---
+description: na
+search: na
+title: Installing Windows PowerShell for Azure Rights Management
+ms.service: rights-management
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.date: 2015-10-01
+ms.author: e8f708ba3bce4153b61467184c747c7f
+---
+# Installing Windows PowerShell for Azure Rights Management
 Use the following information to help you install Windows PowerShell for Microsoft [!INC[aad_rightsmanagement_1](../Token/aad_rightsmanagement_1_md.md)] (Azure RMS).
 
 You can use this Windows PowerShell module to administer [!INC[aad_rightsmanagement_1](../Token/aad_rightsmanagement_1_md.md)] from the command line by using any computer that has an Internet connection and that meets the prerequisites listed in the next section. Windows PowerShell for [!INC[aad_rightsmanagement_1](../Token/aad_rightsmanagement_1_md.md)] supports scripting for automation or might be necessary for advanced configuration scenarios. For more information about the administration tasks and configurations that the module supports, see [Administering Azure Rights Management by Using Windows PowerShell](../Topic/Administering_Azure_Rights_Management_by_Using_Windows_PowerShell.md).

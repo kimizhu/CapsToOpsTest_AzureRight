@@ -1,3 +1,14 @@
+---
+description: na
+search: na
+title: Use keyboard shortcuts in the Rights Management sharing application
+ms.service: rights-management
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.date: 2015-09-01
+ms.author: e8f708ba3bce4153b61467184c747c7f
+---
+# Use keyboard shortcuts in the Rights Management sharing application
 When you use the RMS sharing application, press the **Alt** key to see the available access keys, and then press **Alt** + the access key to select an option.
 
 For example, in the **share protected** dialog box, press **Alt** to see the access keys, and then press **Alt + m** to select the **Email me when somebody tries to open these documents** check box.

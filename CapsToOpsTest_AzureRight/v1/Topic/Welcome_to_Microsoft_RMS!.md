@@ -1,3 +1,14 @@
+---
+description: na
+search: na
+title: Welcome to Microsoft RMS!
+ms.service: na
+ms.tgt_pltfrm: na
+ms.topic: na
+ms.date: na
+ms.author: e8f708ba3bce4153b61467184c747c7f
+---
+# Welcome to Microsoft RMS!
 You’re probably reading this because someone sent you a protected document and you clicked the sign in link in the email message, or your favorite search engine sent you here.
 
 Microsoft Rights Management (RMS) helps the sender of a document protect it from people who do not need to see it, or should not see it. The sender specifies who can access the document, and what they can do with it (for example, view only, print, etc).

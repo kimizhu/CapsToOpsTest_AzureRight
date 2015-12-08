@@ -1,3 +1,14 @@
+---
+description: na
+search: na
+title: Configuring Super Users for Azure Rights Management and Discovery Services or Data Recovery
+ms.service: rights-management
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.date: 2015-08-01
+ms.author: e8f708ba3bce4153b61467184c747c7f
+---
+# Configuring Super Users for Azure Rights Management and Discovery Services or Data Recovery
 The super user feature of Microsoft [!INC[aad_rightsmanagement_1](../Token/aad_rightsmanagement_1_md.md)] (Azure RMS) ensures that authorized people and services can always read and inspect the data that Azure RMS protects for your organization. And if necessary, remove the protection or change the protection that was previously applied. A super user always has full owner rights for all use licenses that was granted by the organization’s RMS tenant. This ability is sometimes referred to as “reasoning over data” and is a crucial element in maintaining control of your organization’s data. For example, you would use this feature for any of the following scenarios:
 
 - An employee leaves the organization and you need to read the files that they protected.

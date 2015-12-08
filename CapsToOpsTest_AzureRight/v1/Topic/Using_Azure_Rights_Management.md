@@ -1,3 +1,14 @@
+---
+description: na
+search: na
+title: Using Azure Rights Management
+ms.service: rights-management
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.date: 2015-08-01
+ms.author: e8f708ba3bce4153b61467184c747c7f
+---
+# Using Azure Rights Management
 > [!NOTE]
 > This information is for IT administrators and consultants who have deployed Microsoft Azure Rights Management (Azure RMS). If you are looking for user help and information about how to use Rights Management for a specific application, use the help and guidance that accompanies your application.
 > 

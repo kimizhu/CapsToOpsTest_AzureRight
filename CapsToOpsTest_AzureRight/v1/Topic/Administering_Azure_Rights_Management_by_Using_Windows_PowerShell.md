@@ -1,3 +1,14 @@
+---
+description: na
+search: na
+title: Administering Azure Rights Management by Using Windows PowerShell
+ms.service: rights-management
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.date: 2015-12-01
+ms.author: e8f708ba3bce4153b61467184c747c7f
+---
+# Administering Azure Rights Management by Using Windows PowerShell
 Although you can activate Microsoft [!INC[aad_rightsmanagement_1](../Token/aad_rightsmanagement_1_md.md)] (Azure RMS) by using the [!INC[o365_2](../Token/o365_2_md.md)] admin center or the Azure classic portal, you can also use the Windows PowerShell module for [!INC[aad_rightsmanagement_1](../Token/aad_rightsmanagement_1_md.md)] (AADRM) to do this.
 
 After you have activated [!INC[aad_rightsmanagement_2](../Token/aad_rightsmanagement_2_md.md)], further administration for the service might not be required. However, some advanced configuration scenarios might require you to use the Windows PowerShell module for [!INC[aad_rightsmanagement_1](../Token/aad_rightsmanagement_1_md.md)]. The following table lists some of the advanced configuration scenarios that use Windows PowerShell. For a complete list of the available cmdlets with more information about each one, see [Azure Rights Management Cmdlets](http://msdn.microsoft.com/library/azure/dn629398.aspx).

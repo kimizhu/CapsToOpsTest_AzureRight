@@ -1,3 +1,14 @@
+---
+description: na
+search: na
+title: How to safely share a document by email
+ms.service: na
+ms.tgt_pltfrm: na
+ms.topic: na
+ms.date: na
+ms.author: e8f708ba3bce4153b61467184c747c7f
+---
+# How to safely share a document by email
 
 ## &lt;Instructions for administrators – delete this section before giving to users&gt;
 Use this document as a starting point for your own end-user instructions to help users safely share documents by email. Make any modifications that you want to the instructions in the next section, then delete this first section, and give this document to users.

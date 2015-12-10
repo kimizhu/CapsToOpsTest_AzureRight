@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-11-01
 ms.author: e8f708ba3bce4153b61467184c747c7f
+capscontentguid: 2fc90989-9289-4431-9e6a-07740b7f6e5a
 ---
 # Full screen picture: Enabling IRM on SharePoint Online
 ![](../Image/AzRMS_StoryboardSPO_1.png)

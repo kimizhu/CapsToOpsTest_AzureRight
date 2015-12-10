@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-09-01
 ms.author: e8f708ba3bce4153b61467184c747c7f
+capscontentguid: 58f9a6ff-4121-4c8c-9865-1bb290604ad2
 ---
 # Helping Users to Protect Files by Using Azure Rights Management
 <?xml version="1.0" encoding="utf-8"?>

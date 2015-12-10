@@ -1,3 +1,15 @@
+---
+description: na
+search: na
+title: Revised Version 2: Rights Management sharing application user guide - working version, sandbox only
+ms.service: na
+ms.tgt_pltfrm: na
+ms.topic: na
+ms.date: na
+ms.author: e8f708ba3bce4153b61467184c747c7f
+capscontentguid: 5f341ddf-bdff-4a96-8aa0-9aeb4b81c63c
+---
+# Revised Version 2: Rights Management sharing application user guide - working version, sandbox only
 The Microsoft Rights Management (RMS) sharing application for Windows helps you keep important documents and pictures safe from people who shouldn’t see them, even if you email them or save them to another device. You can also use this application to open and use files that other people have protected by using the same Rights Management technology.
 
 All you need is a computer that runs at least Windows 7, and a local administrator account to install the RMS sharing application. Then download and install this free application from Microsoft.

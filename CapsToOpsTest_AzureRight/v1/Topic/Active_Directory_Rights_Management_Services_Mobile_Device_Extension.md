@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: na
 ms.date: na
 ms.author: e8f708ba3bce4153b61467184c747c7f
+capscontentguid: a69ead9d-7dd3-4b38-9830-4728e9757341
 ---
 # Active Directory Rights Management Services Mobile Device Extension
 The Active Directory Rights Management Services (AD RMS) mobile device extension runs on top of an existing AD RMS deployment. This lets users who have mobile devices protect and consume sensitive data when their device supports the latest RMS client and uses RMS-enlightened apps. For example, users on these device can do the following:

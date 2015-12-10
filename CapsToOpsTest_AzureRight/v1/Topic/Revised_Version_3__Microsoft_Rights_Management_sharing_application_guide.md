@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: na
 ms.date: na
 ms.author: e8f708ba3bce4153b61467184c747c7f
+capscontentguid: 846f1895-1daf-4164-8cf6-e4a691384c41
 ---
 # Revised Version 3: Microsoft Rights Management sharing application guide
 Use this guide for the Microsoft Rights Management (RMS) sharing application for Windows to help you keep important documents and pictures safe from people who should not see them, even if you email them or save them to another device. Similarly, this application lets you open and use files that other people have protected by using the same Rights Management technology.

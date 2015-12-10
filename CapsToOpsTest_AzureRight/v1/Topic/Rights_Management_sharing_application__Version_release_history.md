@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-12-01
 ms.author: e8f708ba3bce4153b61467184c747c7f
+capscontentguid: 6751bd90-959f-4eba-91ed-6588ac983762
 ---
 # Rights Management sharing application: Version release history
 <?xml version="1.0" encoding="utf-8"?>

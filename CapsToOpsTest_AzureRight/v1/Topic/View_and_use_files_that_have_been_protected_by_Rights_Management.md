@@ -1,4 +1,16 @@
-When the Rights Management (RMS) sharing application is installed on your computer, you view a protected file by simply double-clicking it. The file might be an attachment in an email message, or you might see it when you use File Explorer.
+---
+description: na
+search: na
+title: View and use files that have been protected by Rights Management
+ms.service: rights-management
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.date: 2015-11-01
+ms.author: e8f708ba3bce4153b61467184c747c7f
+capscontentguid: e5fa4666-6906-405a-9e0c-2c52d4cd27c8
+---
+# View and use files that have been protected by Rights Management
+When the [Rights Management (RMS) sharing application is installed on your computer](https://technet.microsoft.com/library/dn574734%28v=ws.10%29.aspx), you view a protected file by simply double-clicking it. The file might be an attachment in an email message, or you might see it when you use File Explorer.
 
 > [!NOTE]
 > Before you can view the protected file, RMS must first confirm that you are authorized to view the file, which it does by checking your user name and password. In some cases, this might be cached and you will not see a prompt that asks for your credentials. In other cases, you will be prompted to supply your credentials.
@@ -25,9 +37,13 @@ How the file opens depends on how it was protected, which you can tell by lookin
 |The file has a **.pfile** file name extension. <br /> <br />The file was generically protected. <br /> <br />|When you open the file, you see a **protected file** dialog box from the sharing application that tells you who protected the file and that you are expected to honor the co-owner permissions. Click **Open** to read the file. <br /> <br />![](../Image/ADRMS_MSRMSApp_PfilePermission.png) <br /> <br />|
 |The file has a **.ppdf** file name extension or is a protected text or image file (such as **.ptxt** or **.pjpg**). <br /> <br />The file has been natively protected as a read-only copy. <br /> <br />|The file opens by using the viewer that installs with the RMS sharing application. This file is read-only, even if you save it to another location or rename it. <br /> <br />|
 |Other file name extensions. <br /> <br />The file has been natively protected. <br /> <br />|The file opens by using the application that is associated with the original file name extension, and a restriction banner is displayed at the top of the file. The banner might display the permissions that are applied to the file, or it might provide a link to display them. For example, you might see the following where you must click **Permission is currently restricted** to see the actual permissions that are applied to the file and the people that can access it: <br /> <br />![](../Image/ADRMS_MSRMSApp_RestrictedAccess.png) <br /> <br />|
+For a complete list of file name extensions that Rights Management supports, see the [Supported file types and file name extensions](../Topic/Rights_Management_sharing_application_administrator_guide.md#BKMK_SupportFileTypes) sections in the  [Rights Management sharing application administrator guide](../Topic/Rights_Management_sharing_application_administrator_guide.md). If your file name extension is not listed, use a web search to see if it is a file name extension that is supported by another application.
+
+> [!NOTE]
+> If, after confirming that the file is protected by Rights Management, and the file does not open, download and use the [RMS Analyzer tool](https://www.microsoft.com/en-us/download/details.aspx?id=46437). Follow the instructions in the tool to check for problems on your computer that might prevent a protected document from opening.
 
 ## <a name="BKMK_UserDefined"></a>To use files that have been protected (for example, edit and print the file)
-If you want to do more than just read the protected file, for example, edit, copy, and print it:
+If, after opening the protected file,  you want to do more than just read it (for example, edit, copy, and print it):
 
 |File name extension <br /> <br />|Instructions <br /> <br />|
 |-----------------------|----------------|

@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-08-01
 ms.author: e8f708ba3bce4153b61467184c747c7f
+capscontentguid: 5214667c-ec69-42ca-8bbf-8cb22da8c62e
 ---
 # Getting Started with Azure Rights Management
 <?xml version="1.0" encoding="utf-8"?>

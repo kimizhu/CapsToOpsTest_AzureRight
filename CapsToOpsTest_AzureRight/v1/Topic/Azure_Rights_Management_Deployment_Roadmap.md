@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-08-01
 ms.author: e8f708ba3bce4153b61467184c747c7f
+capscontentguid: 086600c2-c5d8-47ec-a4c0-c782e1797486
 ---
 # Azure Rights Management Deployment Roadmap
 <?xml version="1.0" encoding="utf-8"?>

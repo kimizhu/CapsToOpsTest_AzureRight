@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-11-01
 ms.author: e8f708ba3bce4153b61467184c747c7f
+capscontentguid: afbca2d6-32a7-4bda-8aaf-9f93f5da5abc
 ---
 # Preparing for Azure Rights Management
 After you have signed up for a cloud subscription and established your organization with an account for [!INC[o365_1](../Token/o365_1_md.md)] or Azure Active Directory, you’re ready to enable the [!INC[aad_rightsmanagement_2](../Token/aad_rightsmanagement_2_md.md)] service.

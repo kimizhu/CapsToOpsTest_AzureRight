@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-11-01
 ms.author: e8f708ba3bce4153b61467184c747c7f
+capscontentguid: 742877bf-26f5-40e3-b1f7-8475e7c3ce11
 ---
 # Terminology for Azure Rights Management
 Confused by a word, phrase, or acronym that’s related to Microsoft [!INC[aad_rightsmanagement_1](../Token/aad_rightsmanagement_1_md.md)] (Azure RMS)? Find the definition here for terms and abbreviations that are either specific to Azure RMS or have a specific meaning when used in the context of [!INC[aad_rightsmanagement_2](../Token/aad_rightsmanagement_2_md.md)].

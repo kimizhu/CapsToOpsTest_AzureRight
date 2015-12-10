@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-11-01
 ms.author: e8f708ba3bce4153b61467184c747c7f
+capscontentguid: 71ce491f-41c1-4d15-9646-455a6eaa157d
 ---
 # Frequently Asked Questions for Azure Rights Management
 <?xml version="1.0" encoding="utf-8"?>

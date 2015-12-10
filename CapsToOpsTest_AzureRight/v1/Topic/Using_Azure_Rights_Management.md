@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-08-01
 ms.author: e8f708ba3bce4153b61467184c747c7f
+capscontentguid: 18564e4a-9364-4ed2-8f17-89d24fc0d878
 ---
 # Using Azure Rights Management
 > [!NOTE]

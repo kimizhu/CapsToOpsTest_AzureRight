@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: na
 ms.date: na
 ms.author: e8f708ba3bce4153b61467184c747c7f
+capscontentguid: e647ab1e-e119-4099-b54a-e307f8173d7e
 ---
 # How to safely share a document by email
 

@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-11-01
 ms.author: e8f708ba3bce4153b61467184c747c7f
+capscontentguid: d9992e30-f3d1-48d5-aedc-4e721f7d7c25
 ---
 # Rights Management sharing application administrator guide
 Use the following information if you are responsible for the Microsoft Rights Management sharing application on an enterprise network, or if you want more technical information than is in the [Rights Management sharing application user guide](../Topic/Rights_Management_sharing_application_user_guide.md) or [FAQ for Microsoft Rights Management Sharing Application for Windows](http://go.microsoft.com/fwlink/?LinkId=303971):

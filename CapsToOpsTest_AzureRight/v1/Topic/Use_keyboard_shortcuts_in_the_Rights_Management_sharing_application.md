@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-09-01
 ms.author: e8f708ba3bce4153b61467184c747c7f
+capscontentguid: 72760134-94e0-4699-b20c-07b96aa061f1
 ---
 # Use keyboard shortcuts in the Rights Management sharing application
 When you use the RMS sharing application, press the **Alt** key to see the available access keys, and then press **Alt** + the access key to select an option.

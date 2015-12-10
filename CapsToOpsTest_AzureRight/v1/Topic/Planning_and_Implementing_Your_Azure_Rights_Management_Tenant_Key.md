@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.date: 2015-10-01
 ms.author: e8f708ba3bce4153b61467184c747c7f
+capscontentguid: f0d33c5f-a6a6-44a1-bdec-5be1bc8e1e14
 ---
 # Planning and Implementing Your Azure Rights Management Tenant Key
 <?xml version="1.0" encoding="utf-8"?>

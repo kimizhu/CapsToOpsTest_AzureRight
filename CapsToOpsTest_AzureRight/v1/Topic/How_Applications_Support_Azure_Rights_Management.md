@@ -1,13 +1,14 @@
 ---
 description: na
+keywords: na
+pagetitle: How Applications Support Azure Rights Management
 search: na
-title: How Applications Support Azure Rights Management
+ms.author: e8f708ba3bce4153b61467184c747c7f
+ms.date: 2015-12-01
 ms.service: rights-management
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: 2015-12-01
-ms.author: e8f708ba3bce4153b61467184c747c7f
-capscontentguid: 2cdc7bde-4044-4021-b887-11476f99afd9
+ms.assetid: 2cdc7bde-4044-4021-b887-11476f99afd9
 ---
 # How Applications Support Azure Rights Management
 <?xml version="1.0" encoding="utf-8"?>

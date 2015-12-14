@@ -1,13 +1,14 @@
 ---
 description: na
+keywords: na
+pagetitle: Protect a file on a device (protect in-place) by using the Rights Management sharing application
 search: na
-title: Protect a file on a device (protect in-place) by using the Rights Management sharing application
+ms.author: e8f708ba3bce4153b61467184c747c7f
+ms.date: 2015-11-01
 ms.service: rights-management
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: 2015-11-01
-ms.author: e8f708ba3bce4153b61467184c747c7f
-capscontentguid: 33920329-5247-4f6c-8651-6227afb4a1fa
+ms.assetid: 33920329-5247-4f6c-8651-6227afb4a1fa
 ---
 # Protect a file on a device (protect in-place) by using the Rights Management sharing application
 When you protect a file in-place, it replaces the original, unprotected file. You can then leave the file where it is, copy it to another folder or device, or share the folder that it is in and the file will remain protected. You could also attach the protected file to an email message, although the recommended way to share a protected file by email is directly from File Explorer or an Office application (see [Protect a file that you share by email by using the Rights Management sharing application](../Topic/Protect_a_file_that_you_share_by_email_by_using_the_Rights_Management_sharing_application.md)).

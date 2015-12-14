@@ -1,13 +1,14 @@
 ---
 description: na
+keywords: na
+pagetitle: Full screen picture: Configuring FCI for the Marketing classification
 search: na
-title: Full screen picture: Configuring FCI for the Marketing classification
-ms.service: na
+ms.author: e8f708ba3bce4153b61467184c747c7f
+ms.date: 2015-11-01
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: 2015-11-01
-ms.author: e8f708ba3bce4153b61467184c747c7f
-capscontentguid: ba3e247d-ea5e-4009-8eac-74f70270ece0
+ms.assetid: ba3e247d-ea5e-4009-8eac-74f70270ece0
+robots: nofollow
 ---
 # Full screen picture: Configuring FCI for the Marketing classification
 ![](../Image/AzRMS_ExampleFCI_Configuration.png)

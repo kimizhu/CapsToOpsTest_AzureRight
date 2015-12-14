@@ -1,13 +1,14 @@
 ---
 description: na
+keywords: na
+pagetitle: What is Azure Rights Management?
 search: na
-title: What is Azure Rights Management?
+ms.author: e8f708ba3bce4153b61467184c747c7f
+ms.date: 2015-12-01
 ms.service: rights-management
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: 2015-12-01
-ms.author: e8f708ba3bce4153b61467184c747c7f
-capscontentguid: aeeebcd7-6646-4405-addf-ee1cc74df5df
+ms.assetid: aeeebcd7-6646-4405-addf-ee1cc74df5df
 ---
 # What is Azure Rights Management?
 <?xml version="1.0" encoding="utf-8"?>

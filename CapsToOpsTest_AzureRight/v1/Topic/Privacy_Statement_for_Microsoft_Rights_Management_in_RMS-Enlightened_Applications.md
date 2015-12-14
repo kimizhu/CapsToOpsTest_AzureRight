@@ -1,13 +1,14 @@
 ---
 description: na
+keywords: na
+pagetitle: Privacy Statement for Microsoft Rights Management in RMS-Enlightened Applications
 search: na
-title: Privacy Statement for Microsoft Rights Management in RMS-Enlightened Applications
+ms.author: f459630d47d34d12a44295cd5237dc68
+ms.date: na
 ms.service: rights-management
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: na
-ms.author: f459630d47d34d12a44295cd5237dc68
-capscontentguid: 751e5e05-fbe2-4769-a5df-1362c0db2108
+ms.assetid: 751e5e05-fbe2-4769-a5df-1362c0db2108
 ---
 # Privacy Statement for Microsoft Rights Management in RMS-Enlightened Applications
 Applies To: Microsoft Rights Management functionality which is embedded in applications

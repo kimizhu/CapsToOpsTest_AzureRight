@@ -1,13 +1,14 @@
 ---
 description: na
+keywords: na
+pagetitle: Migrating from AD RMS to Azure Rights Management
 search: na
-title: Migrating from AD RMS to Azure Rights Management
+ms.author: e8f708ba3bce4153b61467184c747c7f
+ms.date: 2015-12-01
 ms.service: rights-management
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: 2015-12-01
-ms.author: e8f708ba3bce4153b61467184c747c7f
-capscontentguid: 828cf1f7-d0e7-4edf-8525-91896dbe3172
+ms.assetid: 828cf1f7-d0e7-4edf-8525-91896dbe3172
 ---
 # Migrating from AD RMS to Azure Rights Management
 <?xml version="1.0" encoding="utf-8"?>

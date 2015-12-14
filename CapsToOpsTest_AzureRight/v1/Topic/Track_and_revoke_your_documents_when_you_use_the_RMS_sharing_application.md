@@ -1,13 +1,14 @@
 ---
 description: na
+keywords: na
+pagetitle: Track and revoke your documents when you use the RMS sharing application
 search: na
-title: Track and revoke your documents when you use the RMS sharing application
+ms.author: e8f708ba3bce4153b61467184c747c7f
+ms.date: 2015-11-01
 ms.service: rights-management
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: 2015-11-01
-ms.author: e8f708ba3bce4153b61467184c747c7f
-capscontentguid: 61f349ce-bdd2-45c1-acc5-bc83937fb187
+ms.assetid: 61f349ce-bdd2-45c1-acc5-bc83937fb187
 ---
 # Track and revoke your documents when you use the RMS sharing application
 After you have protected your documents by using the RMS sharing application, if your organization is using Azure Rights Management rather than Active Directory Rights Management Services, you can track how people are using your protected documents. If necessary, you can also revoke access to these documents when you want to stop sharing them. To do this, you use the **document tracking site**, which you can access from Windows computers, Mac computers, and even from tablets and phones.

@@ -1,13 +1,14 @@
 ---
 description: na
+keywords: na
+pagetitle: Full screen picture: Confidential report accidentally sent to wrong person
 search: na
-title: Full screen picture: Confidential report accidentally sent to wrong person
-ms.service: na
+ms.author: e8f708ba3bce4153b61467184c747c7f
+ms.date: 2015-11-01
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: 2015-11-01
-ms.author: e8f708ba3bce4153b61467184c747c7f
-capscontentguid: ad666594-68df-4289-835a-235b2af9bf4b
+ms.assetid: ad666594-68df-4289-835a-235b2af9bf4b
+robots: nofollow
 ---
 # Full screen picture: Confidential report accidentally sent to wrong person
 ![](../Image/AzRMS_FCI_Email.png)

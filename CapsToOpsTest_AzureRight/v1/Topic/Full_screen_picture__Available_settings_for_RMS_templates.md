@@ -1,13 +1,14 @@
 ---
 description: na
+keywords: na
+pagetitle: Full screen picture: Available settings for RMS templates
 search: na
-title: Full screen picture: Available settings for RMS templates
-ms.service: na
+ms.author: e8f708ba3bce4153b61467184c747c7f
+ms.date: 2015-11-01
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: 2015-11-01
-ms.author: e8f708ba3bce4153b61467184c747c7f
-capscontentguid: f5df80e5-efc9-4c0f-91be-060225977356
+ms.assetid: f5df80e5-efc9-4c0f-91be-060225977356
+robots: nofollow
 ---
 # Full screen picture: Available settings for RMS templates
 ![](../Image/AzRMS_TemplatesSettings.png)

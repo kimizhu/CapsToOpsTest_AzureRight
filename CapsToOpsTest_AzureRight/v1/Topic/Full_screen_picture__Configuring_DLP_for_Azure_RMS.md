@@ -1,13 +1,13 @@
 ---
 description: na
+keywords: na
+pagetitle: Full screen picture: Configuring DLP for Azure RMS
 search: na
-title: Full screen picture: Configuring DLP for Azure RMS
-ms.service: na
+ms.author: e8f708ba3bce4153b61467184c747c7f
+ms.date: 2015-11-01
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: 2015-11-01
-ms.author: e8f708ba3bce4153b61467184c747c7f
-capscontentguid: 58461319-3981-4b7f-a195-956a1778e907
+ms.assetid: 58461319-3981-4b7f-a195-956a1778e907
 ---
 # Full screen picture: Configuring DLP for Azure RMS
 ![](../Image/AzRMS_DLPExample.png)

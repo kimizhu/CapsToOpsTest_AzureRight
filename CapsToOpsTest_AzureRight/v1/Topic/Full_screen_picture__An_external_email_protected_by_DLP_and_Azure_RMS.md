@@ -1,13 +1,14 @@
 ---
 description: na
+keywords: na
+pagetitle: Full screen picture: An external email protected by DLP and Azure RMS
 search: na
-title: Full screen picture: An external email protected by DLP and Azure RMS
-ms.service: na
+ms.author: e8f708ba3bce4153b61467184c747c7f
+ms.date: 2015-11-01
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: 2015-11-01
-ms.author: e8f708ba3bce4153b61467184c747c7f
-capscontentguid: 59e3b68e-4bed-4962-bb1e-e82d82f8000a
+ms.assetid: 59e3b68e-4bed-4962-bb1e-e82d82f8000a
+robots: nofollow
 ---
 # Full screen picture: An external email protected by DLP and Azure RMS
 ![](../Image/AzRMS_DLPProtectedEmail.png)

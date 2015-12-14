@@ -1,16 +1,17 @@
 ---
 description: na
+keywords: na
+pagetitle: Preparing for Azure Rights Management
 search: na
-title: Preparing for Azure Rights Management
+ms.author: e8f708ba3bce4153b61467184c747c7f
+ms.date: 2015-11-01
 ms.service: rights-management
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: 2015-11-01
-ms.author: e8f708ba3bce4153b61467184c747c7f
-capscontentguid: afbca2d6-32a7-4bda-8aaf-9f93f5da5abc
+ms.assetid: afbca2d6-32a7-4bda-8aaf-9f93f5da5abc
 ---
 # Preparing for Azure Rights Management
-After you have signed up for a cloud subscription and established your organization with an account for [!INC[o365_1](../Token/o365_1_md.md)] or Azure Active Directory, you’re ready to enable the [!INC[aad_rightsmanagement_2](../Token/aad_rightsmanagement_2_md.md)] service.
+After you have signed up for a cloud subscription and established your organization with an account for [!INCLUDE[o365_1](../Token/o365_1_md.md)] or Azure Active Directory, you’re ready to enable the [!INCLUDE[aad_rightsmanagement_2](../Token/aad_rightsmanagement_2_md.md)] service.
 
 However, before you do so, make sure that the following are in place:
 
@@ -23,7 +24,7 @@ However, before you do so, make sure that the following are in place:
    If you have Exchange Online, you can create and use mail-enabled groups by using the Exchange admin center. If you have AD DS and are synchronizing to Azure AD, you can create and use mail-enabled groups that are either security groups or distribution groups.
 
 ## Enable Rights Management
-By default, [!INC[aad_rightsmanagement_2](../Token/aad_rightsmanagement_2_md.md)] is disabled when you sign up for your [!INC[o365_2](../Token/o365_2_md.md)] or Azure AD account. To enable [!INC[aad_rightsmanagement_2](../Token/aad_rightsmanagement_2_md.md)] for your organization, you must activate the service. For more information, see [Activating Azure Rights Management](../Topic/Activating_Azure_Rights_Management.md).
+By default, [!INCLUDE[aad_rightsmanagement_2](../Token/aad_rightsmanagement_2_md.md)] is disabled when you sign up for your [!INCLUDE[o365_2](../Token/o365_2_md.md)] or Azure AD account. To enable [!INCLUDE[aad_rightsmanagement_2](../Token/aad_rightsmanagement_2_md.md)] for your organization, you must activate the service. For more information, see [Activating Azure Rights Management](../Topic/Activating_Azure_Rights_Management.md).
 
 ## See Also
 [Configuring Azure Rights Management](../Topic/Configuring_Azure_Rights_Management.md)

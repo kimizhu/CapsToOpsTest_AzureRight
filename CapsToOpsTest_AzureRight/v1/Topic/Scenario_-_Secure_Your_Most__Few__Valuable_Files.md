@@ -1,13 +1,13 @@
 ---
 description: na
+keywords: na
+pagetitle: Scenario - Secure Your Most (Few) Valuable Files
 search: na
-title: Scenario - Secure Your Most (Few) Valuable Files
-ms.service: na
+ms.author: e8f708ba3bce4153b61467184c747c7f
+ms.date: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: na
-ms.author: e8f708ba3bce4153b61467184c747c7f
-capscontentguid: 95f1844a-612c-4e67-bbe6-4b6b92295221
+ms.assetid: 95f1844a-612c-4e67-bbe6-4b6b92295221
 ---
 # Scenario - Secure Your Most (Few) Valuable Files
 This scenario and supporting user documentation uses Azure Rights Management to manually and custom-protect a handful of files that you have identified as being your most valuable, which warrant the highest level of protection from unauthorized access. These are usually files that only a few people should be able to access. For example, recipe instructions for your company's signature food product, or takeover plans that must not be public before a specified date.

@@ -1,13 +1,14 @@
 ---
 description: na
+keywords: na
+pagetitle: Full screen picture: Enabling IRM on SharePoint Online
 search: na
-title: Full screen picture: Enabling IRM on SharePoint Online
-ms.service: na
+ms.author: e8f708ba3bce4153b61467184c747c7f
+ms.date: 2015-11-01
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: 2015-11-01
-ms.author: e8f708ba3bce4153b61467184c747c7f
-capscontentguid: 2fc90989-9289-4431-9e6a-07740b7f6e5a
+ms.assetid: 2fc90989-9289-4431-9e6a-07740b7f6e5a
+robots: nofollow
 ---
 # Full screen picture: Enabling IRM on SharePoint Online
 ![](../Image/AzRMS_StoryboardSPO_1.png)

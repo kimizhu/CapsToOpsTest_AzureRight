@@ -1,13 +1,12 @@
 ---
 description: na
+keywords: na
+pagetitle: Welcome to Microsoft RMS!
 search: na
-title: Welcome to Microsoft RMS!
-ms.service: na
-ms.tgt_pltfrm: na
-ms.topic: na
-ms.date: na
 ms.author: e8f708ba3bce4153b61467184c747c7f
-capscontentguid: ab7855fa-3cd2-4b64-98c8-387af23c0334
+ms.date: na
+ms.tgt_pltfrm: na
+ms.assetid: ab7855fa-3cd2-4b64-98c8-387af23c0334
 ---
 # Welcome to Microsoft RMS!
 You’re probably reading this because someone sent you a protected document and you clicked the sign in link in the email message, or your favorite search engine sent you here.

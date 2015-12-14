@@ -1,13 +1,14 @@
 ---
 description: na
+keywords: na
+pagetitle: Configuring Custom Templates for Azure Rights Management
 search: na
-title: Configuring Custom Templates for Azure Rights Management
+ms.author: e8f708ba3bce4153b61467184c747c7f
+ms.date: 2015-12-01
 ms.service: rights-management
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: 2015-12-01
-ms.author: e8f708ba3bce4153b61467184c747c7f
-capscontentguid: 1775d8d0-9a59-42c8-914f-ce285b71ac1c
+ms.assetid: 1775d8d0-9a59-42c8-914f-ce285b71ac1c
 ---
 # Configuring Custom Templates for Azure Rights Management
 After you have activated Azure Rights Management (Azure RMS), users are automatically able to use two default templates that make it easy for them to apply policies to sensitive files that restrict access to authorized users in your organization. These two templates have the following rights policy restrictions:
@@ -379,7 +380,7 @@ The cmdlets that support creating and managing templates:
 - [Set-AadrmTemplateProperty](https://msdn.microsoft.com/library/azure/dn727076.aspx)
 
 ## Next steps
-After you’ve configured custom templates for Azure Rights Management, use the [Azure Rights Management Deployment Roadmap](../Topic/Azure_Rights_Management_Deployment_Roadmap.md) to check whether there are other configuration steps that you might want to do before you roll out [!INC[aad_rightsmanagement_1](../Token/aad_rightsmanagement_1_md.md)] to users and administrators. If there are no other configuration steps that you need to do, see [Using Azure Rights Management](../Topic/Using_Azure_Rights_Management.md) for operational guidance to support a successful deployment for your organization.
+After you’ve configured custom templates for Azure Rights Management, use the [Azure Rights Management Deployment Roadmap](../Topic/Azure_Rights_Management_Deployment_Roadmap.md) to check whether there are other configuration steps that you might want to do before you roll out [!INCLUDE[aad_rightsmanagement_1](../Token/aad_rightsmanagement_1_md.md)] to users and administrators. If there are no other configuration steps that you need to do, see [Using Azure Rights Management](../Topic/Using_Azure_Rights_Management.md) for operational guidance to support a successful deployment for your organization.
 
 ## See Also
 [Configuring Azure Rights Management](../Topic/Configuring_Azure_Rights_Management.md)

@@ -1,13 +1,14 @@
 ---
 description: na
+keywords: na
+pagetitle: Using Azure Rights Management
 search: na
-title: Using Azure Rights Management
+ms.author: e8f708ba3bce4153b61467184c747c7f
+ms.date: 2015-08-01
 ms.service: rights-management
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.date: 2015-08-01
-ms.author: e8f708ba3bce4153b61467184c747c7f
-capscontentguid: 18564e4a-9364-4ed2-8f17-89d24fc0d878
+ms.assetid: 18564e4a-9364-4ed2-8f17-89d24fc0d878
 ---
 # Using Azure Rights Management
 > [!NOTE]
@@ -15,7 +16,7 @@ capscontentguid: 18564e4a-9364-4ed2-8f17-89d24fc0d878
 > 
 > For example, for Office applications, click the Help icon and enter search terms such as **Rights Management** or **IRM**. For the RMS sharing application for Windows, see the [Rights Management sharing application user guide](http://technet.microsoft.com/library/dn339006.aspx).
 
-This section contains operations information for after you have configured   [!INC[aad_rightsmanagement_1](../Token/aad_rightsmanagement_1_md.md)]:
+This section contains operations information for after you have configured   [!INCLUDE[aad_rightsmanagement_1](../Token/aad_rightsmanagement_1_md.md)]:
 
 - [Verifying Azure Rights Management](../Topic/Verifying_Azure_Rights_Management.md)
 

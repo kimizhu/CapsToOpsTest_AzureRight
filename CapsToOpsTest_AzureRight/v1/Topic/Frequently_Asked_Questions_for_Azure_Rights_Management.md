@@ -3,12 +3,12 @@ description: na
 keywords: na
 pagetitle: Frequently Asked Questions for Azure Rights Management
 search: na
-ms.author: e8f708ba3bce4153b61467184c747c7f
 ms.date: 2015-11-01
 ms.service: rights-management
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 71ce491f-41c1-4d15-9646-455a6eaa157d
+ms.author: e8f708ba3bce4153b61467184c747c7f
 ---
 # Frequently Asked Questions for Azure Rights Management
 <?xml version="1.0" encoding="utf-8"?>

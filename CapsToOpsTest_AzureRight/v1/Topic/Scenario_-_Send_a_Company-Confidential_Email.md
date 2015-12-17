@@ -3,11 +3,11 @@ description: na
 keywords: na
 pagetitle: Scenario - Send a Company-Confidential Email
 search: na
-ms.author: e8f708ba3bce4153b61467184c747c7f
 ms.date: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 950799e9-2289-48c7-b95a-f54a8ead520a
+ms.author: e8f708ba3bce4153b61467184c747c7f
 ---
 # Scenario - Send a Company-Confidential Email
 This scenario and supporting user documentation uses Azure Rights Management so  that any user in the organization can  safely send email communications that cannot be read outside the organization.  For example, if somebody forwards the email message to a somebody in another organization or to a personal email account. The emails and any attachments will be protected by Azure Rights Management and a template that users select from the email client.

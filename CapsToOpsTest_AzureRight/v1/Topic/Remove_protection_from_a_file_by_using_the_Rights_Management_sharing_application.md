@@ -3,12 +3,12 @@ description: na
 keywords: na
 pagetitle: Remove protection from a file by using the Rights Management sharing application
 search: na
-ms.author: e8f708ba3bce4153b61467184c747c7f
 ms.date: 2015-09-01
 ms.service: rights-management
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: da95b938-eaad-4c83-a21e-ff1d4872aae4
+ms.author: e8f708ba3bce4153b61467184c747c7f
 ---
 # Remove protection from a file by using the Rights Management sharing application
 To remove protection from a file (that is, unprotect a file) that was previously protected by using the RMS sharing application, use the **Remove Protection** option from File Explorer.

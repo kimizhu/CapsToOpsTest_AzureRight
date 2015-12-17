@@ -3,11 +3,11 @@ description: na
 keywords: na
 pagetitle: Scenario - Configure Work Folders for Persistent Protection
 search: na
-ms.author: e8f708ba3bce4153b61467184c747c7f
 ms.date: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 1f189345-a69e-4bf5-8a45-eb0fe5bb542b
+ms.author: e8f708ba3bce4153b61467184c747c7f
 ---
 # Scenario - Configure Work Folders for Persistent Protection
 This scenario and supporting user documentation uses Azure Rights Management to apply persistent protection to Office documents in  [Work Folders](https://technet.microsoft.com/library/dn265974.aspx).  Work Folders uses a role service for file servers running Windows Server that provides a consistent way for users to access their work files from their PCs and devices. Although Work Folders provides its own encryption to protect the files, this protection is lost if the files are then moved outside the Work Folders  environment. For example, users copy the synchronized files and save them to storage that is not under the control of your IT department, or the files are emailed to others.

@@ -3,12 +3,12 @@ description: na
 keywords: na
 pagetitle: Planning and Implementing Your Azure Rights Management Tenant Key
 search: na
-ms.author: e8f708ba3bce4153b61467184c747c7f
 ms.date: 2015-10-01
 ms.service: rights-management
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: f0d33c5f-a6a6-44a1-bdec-5be1bc8e1e14
+ms.author: e8f708ba3bce4153b61467184c747c7f
 ---
 # Planning and Implementing Your Azure Rights Management Tenant Key
 <?xml version="1.0" encoding="utf-8"?>

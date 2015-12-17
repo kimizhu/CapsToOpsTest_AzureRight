@@ -3,12 +3,12 @@ description: na
 keywords: na
 pagetitle: Configuring Applications for Azure Rights Management
 search: na
-ms.author: e8f708ba3bce4153b61467184c747c7f
 ms.date: 2015-10-01
 ms.service: rights-management
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: ea09cbc5-b98b-444e-8b60-5bc3cb199c36
+ms.author: e8f708ba3bce4153b61467184c747c7f
 ---
 # Configuring Applications for Azure Rights Management
 <?xml version="1.0" encoding="utf-8"?>

@@ -3,10 +3,10 @@ description: na
 keywords: na
 pagetitle: How to safely share a document by email
 search: na
-ms.author: e8f708ba3bce4153b61467184c747c7f
 ms.date: na
 ms.tgt_pltfrm: na
 ms.assetid: e647ab1e-e119-4099-b54a-e307f8173d7e
+ms.author: e8f708ba3bce4153b61467184c747c7f
 robots: noindex,nofollow
 ---
 # How to safely share a document by email

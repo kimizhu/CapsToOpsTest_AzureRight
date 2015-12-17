@@ -3,12 +3,12 @@ description: na
 keywords: na
 pagetitle: Dialog box options for the Rights Management sharing application
 search: na
-ms.author: e8f708ba3bce4153b61467184c747c7f
 ms.date: 2015-09-01
 ms.service: rights-management
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 7b91ab30-6363-4929-bcbd-4dfbd05f644a
+ms.author: e8f708ba3bce4153b61467184c747c7f
 ---
 # Dialog box options for the Rights Management sharing application
 Use this information to help you specify the options in the RMS sharing application **add protection** dialog box or the **share protected** dialog box. You will see this dialog box when you [protect a file to share](http://technet.microsoft.com/library/dn574735.aspx) or you [protect a file in place](http://technet.microsoft.com/library/dn574733.aspx) and choose custom permissions.

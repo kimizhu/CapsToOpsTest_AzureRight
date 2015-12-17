@@ -3,10 +3,10 @@ description: na
 keywords: na
 pagetitle: Welcome to Microsoft RMS! Test
 search: na
-ms.author: e8f708ba3bce4153b61467184c747c7f
 ms.date: na
 ms.tgt_pltfrm: na
 ms.assetid: 23ca5ffe-a3c3-475a-a3c9-b77b898eef80
+ms.author: e8f708ba3bce4153b61467184c747c7f
 ---
 # Welcome to Microsoft RMS! Test
 You’re probably reading this because someone sent you a protected document and you clicked the sign in link in the email message, or your favorite search engine sent you here.

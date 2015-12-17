@@ -3,12 +3,12 @@ description: na
 keywords: na
 pagetitle: Configuring Usage Rights for Azure Rights Management
 search: na
-ms.author: e8f708ba3bce4153b61467184c747c7f
 ms.date: 2015-12-01
 ms.service: rights-management
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 97ddde38-b91b-42a5-8eb4-3ce6ce15393d
+ms.author: e8f708ba3bce4153b61467184c747c7f
 ---
 # Configuring Usage Rights for Azure Rights Management
 <?xml version="1.0" encoding="utf-8"?>

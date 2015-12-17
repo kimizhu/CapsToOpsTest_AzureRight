@@ -3,12 +3,12 @@ description: na
 keywords: na
 pagetitle: Configuring Azure Rights Management
 search: na
-ms.author: e8f708ba3bce4153b61467184c747c7f
 ms.date: 2015-08-01
 ms.service: rights-management
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 206a0bfe-0912-4e0e-aa15-484b000b264c
+ms.author: e8f708ba3bce4153b61467184c747c7f
 ---
 # Configuring Azure Rights Management
 > [!NOTE]

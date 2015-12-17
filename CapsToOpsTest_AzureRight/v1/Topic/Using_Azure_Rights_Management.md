@@ -3,12 +3,12 @@ description: na
 keywords: na
 pagetitle: Using Azure Rights Management
 search: na
-ms.author: e8f708ba3bce4153b61467184c747c7f
 ms.date: 2015-08-01
 ms.service: rights-management
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 18564e4a-9364-4ed2-8f17-89d24fc0d878
+ms.author: e8f708ba3bce4153b61467184c747c7f
 ---
 # Using Azure Rights Management
 > [!NOTE]

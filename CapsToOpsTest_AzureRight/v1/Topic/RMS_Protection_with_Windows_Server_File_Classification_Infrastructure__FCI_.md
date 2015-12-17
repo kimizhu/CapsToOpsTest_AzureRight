@@ -3,12 +3,12 @@ description: na
 keywords: na
 pagetitle: RMS Protection with Windows Server File Classification Infrastructure (FCI)
 search: na
-ms.author: e8f708ba3bce4153b61467184c747c7f
 ms.date: 2015-10-01
 ms.service: rights-management
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 9aa693db-9727-4284-9f64-867681e114c9
+ms.author: e8f708ba3bce4153b61467184c747c7f
 ---
 # RMS Protection with Windows Server File Classification Infrastructure (FCI)
 Use this article for instructions and a script to use the Rights Management (RMS) client with the RMS Protection tool to configure File Server Resource Manager and file classification infrastructure (FCI).

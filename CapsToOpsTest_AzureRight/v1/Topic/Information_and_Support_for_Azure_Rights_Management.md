@@ -3,12 +3,12 @@ description: na
 keywords: na
 pagetitle: Information and Support for Azure Rights Management
 search: na
-ms.author: e8f708ba3bce4153b61467184c747c7f
 ms.date: 2015-09-01
 ms.service: rights-management
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 7cc73d92-27d6-49ff-a8ab-2fae73519b4b
+ms.author: e8f708ba3bce4153b61467184c747c7f
 ---
 # Information and Support for Azure Rights Management
 Use the following resources for additional information about Microsoft [!INCLUDE[aad_rightsmanagement_1](../Token/aad_rightsmanagement_1_md.md)] (Azure RMS).

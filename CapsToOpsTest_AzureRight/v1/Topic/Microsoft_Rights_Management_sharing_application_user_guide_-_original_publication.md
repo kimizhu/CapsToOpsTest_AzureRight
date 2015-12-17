@@ -3,10 +3,10 @@ description: na
 keywords: na
 pagetitle: Microsoft Rights Management sharing application user guide - original publication
 search: na
-ms.author: e8f708ba3bce4153b61467184c747c7f
 ms.date: na
 ms.tgt_pltfrm: na
 ms.assetid: 350b6869-084d-4e8a-a4d3-df44a40fa13b
+ms.author: e8f708ba3bce4153b61467184c747c7f
 ---
 # Microsoft Rights Management sharing application user guide - original publication
 This user guide for Microsoft Rights Management sharing application for Windows includes the following sections:

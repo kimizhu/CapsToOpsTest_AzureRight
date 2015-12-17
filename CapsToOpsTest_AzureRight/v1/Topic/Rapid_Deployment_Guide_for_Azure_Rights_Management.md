@@ -3,11 +3,11 @@ description: na
 keywords: na
 pagetitle: Rapid Deployment Guide for Azure Rights Management
 search: na
-ms.author: e8f708ba3bce4153b61467184c747c7f
 ms.date: 2015-09-01
 ms.service: rights-management
 ms.tgt_pltfrm: na
 ms.assetid: c994d616-cff6-4930-9228-a7f7d198a160
+ms.author: e8f708ba3bce4153b61467184c747c7f
 ---
 # Rapid Deployment Guide for Azure Rights Management
 Use this guide in addition to the [technical documentation for Azure Rights Management](https://technet.microsoft.com/library/jj585024.aspx), to help you deploy and use Azure Rights Management (Azure RMS) by choosing from a list of specific scenarios to implement.

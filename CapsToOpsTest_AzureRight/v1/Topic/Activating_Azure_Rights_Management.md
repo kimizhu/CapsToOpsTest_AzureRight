@@ -3,12 +3,12 @@ description: na
 keywords: na
 pagetitle: Activating Azure Rights Management
 search: na
-ms.author: e8f708ba3bce4153b61467184c747c7f
 ms.date: 2015-12-01
 ms.service: rights-management
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: f8707e01-b239-4d1a-a1ea-0d1cf9a8d214
+ms.author: e8f708ba3bce4153b61467184c747c7f
 ---
 # Activating Azure Rights Management
 <?xml version="1.0" encoding="utf-8"?>

@@ -3,12 +3,12 @@ description: na
 keywords: na
 pagetitle: Logging and Analyzing Azure Rights Management Usage
 search: na
-ms.author: e8f708ba3bce4153b61467184c747c7f
 ms.date: 2015-12-01
 ms.service: rights-management
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: a735f3f7-6eb2-4901-9084-8c3cd3a9087e
+ms.author: e8f708ba3bce4153b61467184c747c7f
 ---
 # Logging and Analyzing Azure Rights Management Usage
 <?xml version="1.0" encoding="utf-8"?>

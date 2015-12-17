@@ -3,12 +3,12 @@ description: na
 keywords: na
 pagetitle: View and use files that have been protected by Rights Management
 search: na
-ms.author: e8f708ba3bce4153b61467184c747c7f
 ms.date: 2015-11-01
 ms.service: rights-management
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: e5fa4666-6906-405a-9e0c-2c52d4cd27c8
+ms.author: e8f708ba3bce4153b61467184c747c7f
 ---
 # View and use files that have been protected by Rights Management
 When the [Rights Management (RMS) sharing application is installed on your computer](https://technet.microsoft.com/library/dn574734%28v=ws.10%29.aspx), you view a protected file by simply double-clicking it. The file might be an attachment in an email message, or you might see it when you use File Explorer.

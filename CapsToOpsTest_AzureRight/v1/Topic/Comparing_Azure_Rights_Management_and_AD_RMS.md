@@ -3,12 +3,12 @@ description: na
 keywords: na
 pagetitle: Comparing Azure Rights Management and AD RMS
 search: na
-ms.author: e8f708ba3bce4153b61467184c747c7f
 ms.date: 2015-10-01
 ms.service: rights-management
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 8123bd62-1814-4d79-b306-e20c1a00e264
+ms.author: e8f708ba3bce4153b61467184c747c7f
 ---
 # Comparing Azure Rights Management and AD RMS
 <?xml version="1.0" encoding="utf-8"?>

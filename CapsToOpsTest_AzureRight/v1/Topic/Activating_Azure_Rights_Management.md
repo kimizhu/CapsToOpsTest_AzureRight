@@ -3,7 +3,7 @@ description: na
 keywords: na
 pagetitle: Activating Azure Rights Management
 search: na
-ms.date: 2015-12-01
+ms.date: 2015-12-24
 ms.service: rights-management
 ms.tgt_pltfrm: na
 ms.topic: article
